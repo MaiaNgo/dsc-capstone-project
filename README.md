@@ -1,3 +1,4 @@
+![FTSE on Covid-19 Fear](Images/FTSE100.png)
 ### Mod 6 - Capstone Project - Using Deep Learning to Predict Corona Virus Outbreak
 The purpose of this project is to use a Deep Learning algorithm called Long Short Term Memory (LSTM) to learn and predict time series data to forecast the Covid-19 outbreak.
 
